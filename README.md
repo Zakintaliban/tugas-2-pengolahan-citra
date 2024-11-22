@@ -12,7 +12,7 @@ diubah menjadi grayscale
 
 ## screenshot histogram
 
-![gambar](./screenshot.png)
+![gambar](./Screenshot.png)
 
 pertanyaan
 | 1. Berapa jumlah total piksel untuk setiap intensitas pada gambar grayscale? (jawaban seluruh total ada dipaling bawah) | 2. Apakah ada intensitas tertentu yang dominan dalam gambar tersebut? Jelaskan. |
